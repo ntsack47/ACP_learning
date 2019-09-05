@@ -1,2 +1,0 @@
-functions from the book
-1. the mass of H2O in the air given the air volume and relative humidity.
