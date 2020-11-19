@@ -13,7 +13,7 @@ class C:
     c = 2.9979e8              #m/s  lightspeed
     
 #n(air,0)=2.55e19    #molecules/cm3
-#1 DU = 2.69e16 molecules/cm2
+#1 DU = 2.69e16 #molecules/cm2
 # <codecell> functions
 # calculate p0 at ground level>
 def atmos_water_p0(t1,p_atm=1013.25):
